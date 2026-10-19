@@ -1,0 +1,17 @@
+{
+  "znamka": 8,
+  "slabiny": [
+    "Sekce „Ahoj, já jsem Terka“ (PC buňka 6, mobil buňka 6): místo Terčina portrétu je vedle nadpisu fotka zamilovaného páru na loďce. Návštěvník si ji snadno vyloží jako Terku s partnerem, a to je zavádějící. Fotku nahradit Terčiným portrétem nebo fotkou s foťákem od klientky. Do té doby dát detail, který zjevně není autorka (třeba ruce s náramky), a v shrnutí pro Rafaela uvést, že portrét chybí.",
+    "Hlavička na PC i mobilu: logo je jen drobná bílá kresba, asi 40 px široká, na hnědém pruhu. Název „Dívka s kouzelnou krabičkou“ v něm nejde přečíst, takže v hlavičce není poznat, čí web to je. Logo zvětšit na výšku 52–60 px. Když ani pak nebude text v logu čitelný, přidat vedle něj název písmem Lora 400.",
+    "Formulář „Volné termíny“ (PC buňka 7, mobil buňka 7) a mobilní hlavička: tlačítko „Odeslat“ má bílý text na světle hnědé #a78369, takže má na tmavém pozadí slabý kontrast a vypadá neaktivně. Dát ho plnou bílou nebo krémovou s hnědým textem jako hlavní CTA. Odkaz „Fotky“ v mobilní hlavičce je široký jen 37 px (QA), přidat mu vodorovný padding na 44 px."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Všechny minulé výtky jsou opravené. Nadpisy jsou v Lora 400 s čistým háčkem v „krabičkou“, druhý řádek h1 je bez kurzívy a perexy jsou psané normálním textem.",
+    "Galerie „Šuplík plný fotek“ ukazuje ve výchozím stavu zhruba 9 fotek (na mobilu ve 2 sloupcích) s přihrádkami-filtry a tlačítkem „Otevřít celý šuplík“, takže Fresh 48, svatby a kontakt jsou na mobilu za 2–3 obrazovky.",
+    "Koncept „šuplíku s fotkami“ vychází z klientčiny vlastní věty. Paleta je z hnědých tónů jejího loga, fotky jsou jen její a všechny texty i čísla (2011, víc než sto svateb, přes deset let) mají zdroj v briefu.",
+    "„Volné termíny“ mají nadpis zarovnaný nahoru k formuláři a tlačítka Instagram a Facebook. Mobil má v hlavičce trvale viditelné tlačítko „Termíny“ a nic nepřetéká na žádné ze 6 šířek."
+  ],
+  "verdikt": "Opravené kolo splnilo všechny tři minulé výtky a nová závažná vada se neobjevila. Web je teplý, osobní a dost dobrý k odeslání. Zbývá vyměnit zavádějící fotku páru v sekci O mně a zvětšit logo.",
+  "_hash": "811867fb936158bc2f7d8466eb1bdb1722aebaf2"
+}

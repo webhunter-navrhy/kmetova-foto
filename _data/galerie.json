@@ -1,0 +1,92 @@
+[
+ {
+  "foto": "foto-05.jpg",
+  "typ": "rodina",
+  "alt": "Maminka s miminkem v náručí a starší dcerka v pruhovaném oblečku",
+  "vic": false
+ },
+ {
+  "foto": "foto-06.jpg",
+  "typ": "rodina",
+  "alt": "Rodiče se dvěma dětmi se smějí a líbají na posteli",
+  "vic": false
+ },
+ {
+  "foto": "foto-01.jpg",
+  "typ": "miminka",
+  "alt": "Smějící se miminko ležící na zádech",
+  "vic": false
+ },
+ {
+  "foto": "foto-09.jpg",
+  "typ": "miminka",
+  "alt": "Novorozenec v porodnické postýlce vedle zelené postele",
+  "vic": false
+ },
+ {
+  "foto": "foto-13.jpg",
+  "typ": "laska",
+  "alt": "Těhotná maminka opřená o zeď ve světelných stínech z okna",
+  "vic": false
+ },
+ {
+  "foto": "foto-11.jpg",
+  "typ": "laska",
+  "alt": "Ruce rodičů na těhotenském bříšku",
+  "vic": false
+ },
+ {
+  "foto": "foto-12.jpg",
+  "typ": "laska",
+  "alt": "Ruce rodičů na těhotenském bříšku v srdíčku",
+  "vic": false
+ },
+ {
+  "foto": "foto-15.jpg",
+  "typ": "laska",
+  "alt": "Těhotná maminka v pletených šatech drží bříško",
+  "vic": false
+ },
+ {
+  "foto": "foto-02.jpg",
+  "typ": "svatby",
+  "alt": "Nevěsta zezadu u okna, v rozpuštěných vlasech věneček z květin",
+  "vic": true
+ },
+ {
+  "foto": "foto-03.jpg",
+  "typ": "svatby",
+  "alt": "Svatební šaty zavěšené před zrcadlem a lustrem",
+  "vic": true
+ },
+ {
+  "foto": "foto-04.jpg",
+  "typ": "rodina",
+  "alt": "Rodina s miminkem a malou holčičkou, která se zvědavě dívá do objektivu",
+  "vic": true
+ },
+ {
+  "foto": "foto-08.jpg",
+  "typ": "miminka",
+  "alt": "Spící miminko v proutěném košíku v teplém světle",
+  "vic": true
+ },
+ {
+  "foto": "foto-07.jpg",
+  "typ": "miminka",
+  "alt": "Ruka maminky s porodnickou náramkou drží ručku novorozence",
+  "vic": true
+ },
+ {
+  "foto": "foto-10.jpg",
+  "typ": "miminka",
+  "alt": "Maminka v porodnici drží miminko na rameni",
+  "vic": true
+ },
+ {
+  "foto": "foto-14.jpg",
+  "typ": "laska",
+  "alt": "Pár v loďce na vodě se objímá a drží za ruce",
+  "vic": true
+ }
+]

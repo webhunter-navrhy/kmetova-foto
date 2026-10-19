@@ -1,0 +1,252 @@
+{
+ "slug": "kmetova-foto",
+ "zdroj_url": "https://www.divkaskouzelnoukrabickou.cz",
+ "firma": "Tereza Kmeťová – fotografka",
+ "obor": [
+  "umění a fotografie",
+  "gastro a ubytování"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [],
+  "telefony": [],
+  "adresa": "",
+  "socialni_site": [
+   "https://www.facebook.com/divkaskouzelnoukrabickounaobrazky/",
+   "https://www.instagram.com/divkaskouzelnoukrabickou/"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001473-9dfb59dfb8/logobila.png?ph=4b8e94f050",
+  "rozmery": [
+   1075,
+   676
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#e9322d",
+   "#129fea",
+   "#eaa81a",
+   "#2db247",
+   "#06a48d",
+   "#9878c4"
+  ],
+  "z_loga": [
+   "#67442f",
+   "#a78369"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#67442f",
+   "#a78369",
+   "#e9322d",
+   "#129fea"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001357-3e5953e597/DSC_9289.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1277,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001341-de4fede500/DSC_8622.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200000965-9146d91470/DSC_1230.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-04.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001053-0a1ac0a1ae/IMG_3757.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-05.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001055-166a5166a7/IMG_3764.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1277,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-06.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001051-cbffdcbffe/IMG_3761.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-07.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001263-c5c94c5c95/DSC_9421-8.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1278,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001343-11a8b11a8d/DSC_5627.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1277,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001265-dbc98dbc99/DSC_9399-2.jpeg?ph=4b8e94f050",
+   "sirka": 1278,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-10.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001249-8792787928/DSC_9540.jpeg?ph=4b8e94f050",
+   "sirka": 1278,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-11.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001433-6ada56ada8/DSC_7329.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1277,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-12.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001429-1d8141d815/DSC_6982.jpeg?ph=4b8e94f050",
+   "sirka": 1920,
+   "vyska": 1277,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-13.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001435-5b8d45b8d6/DSC_7056.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-14.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001447-8351f83521/DSC_1957.jpeg?ph=4b8e94f050",
+   "sirka": 1277,
+   "vyska": 1920,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-15.jpg",
+   "url": "https://4b8e94f050.clvaw-cdnwnd.com/9b2ae273fc4ed6a49a9cf439a2ad0117/200001437-03be703bea/D%C3%ADvka%20s%20kouzelnou%20krabi%C4%8Dkou_6985.jpeg?ph=4b8e94f050",
+   "sirka": 1279,
+   "vyska": 1920,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Dívka s kouzelnou krabičkou na obrázky",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "svatby",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "Mojí první svatbu jsem nafotila v roce 2011, od té doby jsem nafotila už více než 100 svateb a je to jedna z mých nejoblíbenějších foto disciplín.",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "R O D I N A",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "rodina",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "MIMINKA & Fresh 48",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "m i m i n k o / Fresh 48",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "L Á S K A",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "h1",
+   "text": "Láska",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "kouzelnou krabičkou je můj foťák, který tahám všude sebou už přes 10 let.",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Umíte si představit, že nemáte ve svém šuplíku fotky z vašeho dětství? Je to památka, která má nevyčíslitelnou hodnotu po generace, pojďme ji dopřát i miminkům, dětem a celé vaší rodině!",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Každá svatba, kterou fotím je úplně jiná a každá má jedinečnou atmosféru. Všechno s vámi prožívám od začátku do konce - od plánování svatby až po večerní zábavu... Zachycuju smích i slzy, dojetí, lásku mezi vámi, bezprostřednost vašich hostů, a to všechno spolu se svatebními detaily dělá z vašeho svatebního dne a alba originál...",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pro info o volných termínech mně prosím kontaktujte přes formulář zde na stránkách, můžete mi napsat taky přes Instagram nebo přes Facebook. Nebo rovnou zavolejte :-)!",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "...ráda zachycuju všední okamžiky vašeho života na jakémkoliv místě - u vás doma, u vody nebo na louce...",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "pro maminku je šestinedělí jedna z nejcitlivějších a nejnáročnějších etap v jejím životě. Těsně po porodu bývají některé okamžiky v mlze... Citlivě zachycené detaily a portréty vás a vašeho miminka vás vrátí v čase a vy si díky nim připomenete, jak krásný a zároveň náročný období to bylo 🧡.",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ráda za Vámi přijedu přímo do porodnice a pokud se ještě nebudete cítit fit, nezoufejte, ráda za vámi přijedu i k vám domů a nemusí to být neprodleně po porodu. Dopřejte si čas a až se budete cítit připravení, napište....",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Proutěné košíčky a wrapy u mně ale nehledejte, ráda fotím přirozené a intimní fotky ze života vašeho miminka.",
+   "zdroj": "https://www.divkaskouzelnoukrabickou.cz/"
+  }
+ ],
+ "chybi": [
+  "e-mail",
+  "telefon (do webu, ne do mailů)",
+  "IČO",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "A H O J , J Á J S E M T E R K A!"
+}

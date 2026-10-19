@@ -1,0 +1,90 @@
+{% extends "_base.html" %}
+{% set titulek = 'Fotografka Tereza Kmeťová – svatby, rodina, miminka a Fresh 48' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <p class="nadpis-mini">fotografka · svatby · rodina · miminka</p>
+      <h1>Dívka s kouzelnou krabičkou <em>na obrázky</em></h1>
+      <p class="uvod">Umíte si představit, že nemáte ve svém šuplíku fotky z dětství? Pojďme je dopřát miminkům, dětem a celé vaší rodině.</p>
+      <p><a class="tl" href="#kontakt">Zeptat se na volný termín</a></p>
+    </div>
+    <div class="hero-foto">
+      <figure class="odtisk o1">{{ img('foto-02.jpg', 'Nevěsta zezadu u okna, v rozpuštěných vlasech věneček z květin', sizes='(min-width: 60rem) 28rem, 70vw') }}</figure>
+      <figure class="odtisk o2">{{ img('foto-04.jpg', 'Rodina s miminkem a malou holčičkou, která se zvědavě dívá do objektivu', sizes='(min-width: 60rem) 20rem, 50vw') }}</figure>
+      <figure class="odtisk o3">{{ img('foto-08.jpg', 'Spící miminko v proutěném košíku v teplém světle', sizes='(min-width: 60rem) 18rem, 45vw') }}</figure>
+    </div>
+  </div>
+</section>
+
+<section class="sekce" id="galerie">
+  <div class="wrap">
+    <h2>Šuplík plný fotek</h2>
+    <p class="podtitul">Vyberte si přihrádku. Každé focení je jiné, všechno ale zachycuju přirozeně a bez póz.</p>
+    <div class="prihradky" role="tablist" aria-label="Druh focení">
+      <button role="tab" aria-selected="true" data-f="vse">Vše</button>
+      <button role="tab" aria-selected="false" data-f="svatby">Svatby</button>
+      <button role="tab" aria-selected="false" data-f="rodina">Rodina</button>
+      <button role="tab" aria-selected="false" data-f="miminka">Miminka &amp; Fresh 48</button>
+      <button role="tab" aria-selected="false" data-f="laska">Láska</button>
+    </div>
+    <ul class="galerie" role="list">
+      {% for g in data.galerie %}<li data-typ="{{ g.typ }}"{% if g.vic %} class="vic"{% endif %}>{{ img(g.foto, g.alt, sizes='(min-width: 60rem) 22rem, 50vw', eager=False) }}</li>{% endfor %}
+    </ul>
+    <button class="vic-tl" type="button">Otevřít celý šuplík</button>
+  </div>
+</section>
+
+<section class="sekce tmava" id="fresh48">
+  <div class="wrap dva">
+    <div class="fresh-foto">
+      {{ img('foto-07.jpg', 'Ruka maminky s porodnickou náramkou drží ručku novorozence', sizes='(min-width: 60rem) 30rem, 90vw', eager=False) }}
+      {{ img('foto-10.jpg', 'Maminka v porodnici drží miminko na rameni', sizes='(min-width: 60rem) 16rem, 45vw', eager=False, cls='malinka') }}
+    </div>
+    <div>
+      <p class="nadpis-mini">miminko / Fresh 48</p>
+      <h2>Prvních 48 hodin, které se rychle zapomenou</h2>
+      <p>Pro maminku je šestinedělí jedna z nejcitlivějších a nejnáročnějších etap života. Těsně po porodu bývají některé okamžiky v mlze. Citlivě zachycené detaily a portréty vás a vašeho miminka vás vrátí v čase.</p>
+      <p>Ráda za Vámi přijedu přímo do porodnice. Pokud se ještě nebudete cítit fit, přijedu i k vám domů, a nemusí to být hned po porodu. Dopřejte si čas.</p>
+      <p>Proutěné košíčky a wrapy u mě nehledejte. Fotím přirozené a intimní fotky ze života vašeho miminka.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sekce" id="svatby">
+  <div class="wrap dva obrat">
+    <div>
+      <p class="nadpis-mini">svatby</p>
+      <h2>Každá svatba je úplně jiná</h2>
+      <p>První svatbu jsem nafotila v roce 2011. Od té doby jich bylo víc než sto a je to jedna z mých nejoblíbenějších disciplín.</p>
+      <p>Všechno s vámi prožívám od začátku do konce, od plánování po večerní zábavu. Zachycuju smích i slzy, dojetí, lásku mezi vámi, bezprostřednost hostů a svatební detaily, které z vašeho dne dělají váš příběh.</p>
+    </div>
+    <div class="svatba-foto">
+      {{ img('foto-03.jpg', 'Svatební šaty zavěšené před zrcadlem a lustrem', sizes='(min-width: 60rem) 26rem, 80vw', eager=False) }}
+    </div>
+  </div>
+</section>
+
+<section class="sekce krem" id="omne">
+  <div class="wrap omne">
+    {{ img('foto-12.jpg', 'Ruce rodičů na těhotenském bříšku v srdíčku', sizes='(min-width: 56rem) 24rem, 80vw', eager=False) }}
+    <div>
+      <h2>Ahoj, já jsem Terka</h2>
+      <p>Kouzelná krabička je můj foťák, který tahám všude s sebou už přes deset let. Ráda zachycuju všední okamžiky vašeho života: u vás doma, u vody nebo na louce.</p>
+      <p>Nejraději mám přirozené, intimní fotky. Žádné nucené pózy, jen to, jak to u vás opravdu je.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sekce tmava" id="kontakt">
+  <div class="wrap dva">
+    <div>
+      <h2>Volné termíny</h2>
+      <p>Pro informace o volných termínech mi napište přes formulář, na Instagramu nebo na Facebooku. Ozvu se vám co nejdřív.</p>
+      <p class="soc"><a href="https://www.instagram.com/divkaskouzelnoukrabickou/" rel="noopener">Instagram</a><a href="https://www.facebook.com/divkaskouzelnoukrabickounaobrazky/" rel="noopener">Facebook</a></p>
+    </div>
+    {% include "_formular.html" %}
+  </div>
+</section>
+{% endblock %}

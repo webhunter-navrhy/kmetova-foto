@@ -1,0 +1,58 @@
+{
+  "slug": "kmetova-foto",
+  "nazev": "Dívka s kouzelnou krabičkou",
+  "url": "https://webhunter-navrhy.github.io/kmetova-foto/",
+  "base": "/kmetova-foto/",
+  "lang": "cs",
+  "popis": "Fotografka Tereza Kmeťová: svatby, rodinné focení, miminka a Fresh 48 v porodnici. Přirozené, intimní fotky ze života.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "foto-02.jpg",
+  "logo": "logo.png",
+  "theme_color": "#67442f",
+  "typ": "Photographer",
+  "ico": "",
+  "kontakt": {
+    "email": "",
+    "telefon": "",
+    "adresa": {
+      "ulice": "",
+      "psc": "",
+      "mesto": "",
+      "zeme": "CZ"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [
+    "https://www.instagram.com/divkaskouzelnoukrabickou/",
+    "https://www.facebook.com/divkaskouzelnoukrabickounaobrazky/"
+  ],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Poptávka z webu"
+  },
+  "nav": [
+    {
+      "text": "Fotky",
+      "href": "#galerie"
+    },
+    {
+      "text": "Fresh 48",
+      "href": "#fresh48"
+    },
+    {
+      "text": "Svatby",
+      "href": "#svatby"
+    },
+    {
+      "text": "O mně",
+      "href": "#omne"
+    },
+    {
+      "text": "Termíny",
+      "href": "#kontakt"
+    }
+  ]
+}
